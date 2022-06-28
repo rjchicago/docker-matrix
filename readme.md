@@ -24,6 +24,8 @@ alias matrix="docker run --rm -it rjchicago/matrix"
 matrix
 ```
 
+> To make the alias permanent, insert the above alias in your bash profile.
+
 ## Build
 
 To build this image:
